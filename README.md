@@ -13,7 +13,7 @@ Factory in Moscow, Russia) in the 1980s and have a normal number “5” instead
 down “2”. They also have long, versatile, directly solderable wires and don't require sockets.
 
 | Data                     | Value                                          |
-| ------------------------ |:----------------------------------------------:|
+| ------------------------ | ---------------------------------------------- |
 | Type                     | **IN-8-2** (ИН-8-2)                            |
 | Manufacturer             | **МЭЛЗ** (Melz Tube Factory in Moscow, Russia) |
 | Displayed symbols        | 0–9, PR                                        |
