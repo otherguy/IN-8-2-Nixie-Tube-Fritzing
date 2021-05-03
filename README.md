@@ -30,3 +30,7 @@ down “2”. They also have long, versatile, directly solderable wires and don'
 | Weight                   | 12g                                            |
 
 ![IN-8-2 Tube](img/tube.png)
+
+## 🙏 Acknowledgements
+
+Greatly modified and improved by [@vanepp](https://forum.fritzing.org/u/vanepp) on the Fritzing Forums
