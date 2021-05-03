@@ -2,6 +2,8 @@
 
 A Fritzing part for ИН-8-2 (IN-8-2) Nixie Tubes.
 
+[Download `IN-8-2 Nixie.fzpz` here](https://github.com/otherguy/IN-8-2-Nixie-Tube-Fritzing/raw/master/IN-8-2%20Nixie.fzpz)
+
 ![IN-8-2 in Fritzing](img/fritzing.png)
 
 ## 🤔 What?
